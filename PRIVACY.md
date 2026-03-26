@@ -16,13 +16,14 @@ SteadyDose is a local-first app. Your dose logs, session history, and settings a
 
 ### Information you enter
 
-All data you enter into SteadyDose — including patient names, medication names, dose amounts, and session history — is stored locally on your device using Apple's sandboxed storage. This data never leaves your device unless you explicitly share it (for example, by using the PDF export feature).
+All data you enter into SteadyDose — including patient names, medication names, dose amounts, and session history — is stored locally on your device using your platform's sandboxed storage. This data never leaves your device unless you explicitly share it (for example, by using the PDF export feature).
 
 ### Subscription and purchase data
 
-SteadyDose Pro is available as an in-app purchase managed through the App Store and processed by **RevenueCat**. When you make a purchase, Apple and RevenueCat collect and process payment and receipt information in accordance with their own privacy policies. We receive only a non-identifiable confirmation of your subscription status. We do not receive your name, payment details, or Apple ID.
+SteadyDose Pro is available as an in-app purchase managed through the App Store or Google Play and processed by **RevenueCat**. When you make a purchase, your app store and RevenueCat collect and process payment and receipt information in accordance with their own privacy policies. We receive only a non-identifiable confirmation of your purchase. We do not receive your name, payment details, or store account information.
 
 - [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
+- [Google Privacy Policy](https://policies.google.com/privacy)
 - [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
 
 ### Notifications
@@ -31,7 +32,7 @@ If you enable dose reminders, SteadyDose schedules local notifications on your d
 
 ### Crash and diagnostic data
 
-If you have opted in to share analytics with Apple (via iOS Settings → Privacy → Analytics & Improvements), Apple may share anonymised crash reports with us through App Store Connect. This data contains no personally identifiable information and is used only to identify and fix bugs.
+If you have opted in to share analytics with your device platform (via your device's privacy or analytics settings), your platform may share anonymised crash reports with us through the respective developer console. This data contains no personally identifiable information and is used only to identify and fix bugs.
 
 ---
 
@@ -46,7 +47,7 @@ If you have opted in to share analytics with Apple (via iOS Settings → Privacy
 
 ## Data Storage and Security
 
-All app data is stored locally in your device's sandboxed storage, protected by iOS's built-in security model. If you enable device-level encryption or Face ID/Touch ID, that protection extends to the data stored by SteadyDose.
+All app data is stored locally in your device's sandboxed storage, protected by your platform's built-in security model. Device-level security features such as biometric authentication and device encryption extend to the data stored by SteadyDose.
 
 You can delete all app data at any time by:
 - Using **Settings → Clear History** within the app, or
