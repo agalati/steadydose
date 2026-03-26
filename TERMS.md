@@ -49,7 +49,7 @@ You may not:
 
 ## 6. SteadyDose Pro
 
-SteadyDose Pro is an optional one-time purchase that permanently unlocks additional features, including PDF export. The purchase is processed through your Apple ID account and is subject to **Apple's Media Services Terms and Conditions** — billing and refunds are governed by Apple.
+SteadyDose Pro is an optional one-time purchase that permanently unlocks additional features, including PDF export. The purchase is processed through the App Store or Google Play and is subject to the terms and conditions of the respective store — billing and refunds are governed by the platform through which you made your purchase.
 
 We reserve the right to change the features included in SteadyDose Pro or adjust pricing with reasonable notice. Existing purchasers will not be charged again for features they have already unlocked.
 
