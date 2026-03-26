@@ -47,15 +47,11 @@ You may not:
 
 ---
 
-## 6. SteadyDose Pro Subscription
+## 6. SteadyDose Pro
 
-SteadyDose Pro is an optional paid subscription that unlocks additional features, including PDF export. Subscriptions are billed through your Apple ID account and are subject to:
+SteadyDose Pro is an optional one-time purchase that permanently unlocks additional features, including PDF export. The purchase is processed through your Apple ID account and is subject to **Apple's Media Services Terms and Conditions** — billing and refunds are governed by Apple.
 
-- **Apple's Media Services Terms and Conditions** — billing, renewals, and refunds are governed by Apple.
-- Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period.
-- You can manage or cancel your subscription at any time in your device's App Store settings.
-
-We reserve the right to change the features included in SteadyDose Pro or adjust pricing with reasonable notice.
+We reserve the right to change the features included in SteadyDose Pro or adjust pricing with reasonable notice. Existing purchasers will not be charged again for features they have already unlocked.
 
 ---
 
